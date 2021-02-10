@@ -15,5 +15,3 @@ We would like you to:
 4. Give both of them &lt;source&gt; elements so that browsers will find the audio format they support best and load it. These should include type attributes.
 
 5. Give the &lt;video&gt; element a poster that will be displayed before the video starts to be played. Have fun creating your own poster graphic.
-
-For an added bonus, you could try researching text tracks, and work out how to add some captions to your video.
